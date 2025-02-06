@@ -1,2 +1,2 @@
 # This is Calculator. 
-# i make Calculator using javascript language.
+# i was maked calculator using js.
